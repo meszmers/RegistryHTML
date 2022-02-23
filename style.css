@@ -1,0 +1,67 @@
+
+.upperDiv {
+    text-align: center;
+    border-radius: 15px;
+    background: rgb(1, 151, 122);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    width: 33%;
+    padding: 15px;
+    box-shadow:
+            0 2.8px 2.2px rgb(0, 0, 0),
+            0 6.7px 6.7px rgb(0, 0, 0),
+            0 12.5px 10px rgba(0, 0, 0, 0.06),
+            0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+            0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+            0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+tbody {
+    text-align: center;
+}
+table {
+    width: 300px;
+    padding-top: 10px;
+    border-collapse: separate;
+    border-spacing: 5px;
+    border-radius: 15px;
+    background: rgb(1, 151, 122);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    box-shadow:
+            0 2.8px 2.2px rgb(0, 0, 0),
+            0 6.7px 6.7px rgb(0, 0, 0),
+            0 12.5px 10px rgba(0, 0, 0, 0.06),
+            0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+            0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+            0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+td {
+    padding: 5px;
+}
+
+.firstGroup {
+    background: snow;
+}
+
+.secondGroup {
+    background: rgb(241, 241, 242);
+}
+
+.id {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background: rgba(213, 213, 213, 0.79);
+}
+
+
+
+
+
+
